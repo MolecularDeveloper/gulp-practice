@@ -1,0 +1,16 @@
+$background-color: #fcfcfc;
+$color: grey;
+$font-size: 14px;
+
+body{
+	background-color: $background-color;
+	color: $color;
+	font-size: $font-size;
+	text-align: center;
+}
+.main-content {
+	margin: 2em auto;
+}
+li {
+	list-style-type: none;
+}
